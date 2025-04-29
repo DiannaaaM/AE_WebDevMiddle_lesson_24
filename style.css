@@ -12,18 +12,3 @@ body {
     justify-content: center;
     flex-direction: column;
 }
-
-.table{
-    display: flex;
-    min-width: 200px;
-    justify-content: center;
-    align-items: center;
-}
-
-.table__counter {
-    color: white;
-    font-size: 50px;
-    line-height: 0.5;
-    font-weight: 600;
-    font-family: system-ui;
-}
